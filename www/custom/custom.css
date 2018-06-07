@@ -42,7 +42,7 @@ a {
 #transacciones{
 	height: 33px;
     margin-top: 14px;
-    background-color: whitesmoke;
+    background-color: powderblue;
     padding-top: 6px;
     margin-bottom: 3%;
     text-align: center;
@@ -53,10 +53,10 @@ a {
 #transaccionesListado{
     margin-left: 8%;
     margin-top: 1%;
-    background: salmon;
+    background: white;
     width: 85%;
     border-style: outset;
-    border-color: lightpink;
+    border-color: paleturquoise;;
 }
 #botonAtras{
     float: left;
@@ -64,10 +64,10 @@ a {
     margin-left: 20px;
     margin-bottom: 16px;
     position: absolute;
-    background-color: salmon;
     font-family: monospace;
     border-radius: 13px;
     height: 47px;
+    background-color: white;
 }
 #campoAdd{
 	width: 100%;
@@ -120,11 +120,12 @@ a {
     margin-bottom: 16px;
     position: absolute;
     margin-top: 6%;
-    background-color: salmon;
+    border-style: solid;
+    border-color: paleturquoise;
     font-family: monospace;
     border-radius: 24px;
     height: 39px;
-    border-style: none;
+    background-color: white;
 }
 
 #botonFormularioDonador{
@@ -134,11 +135,12 @@ a {
     margin-bottom: 16px;
     position: absolute;
     margin-top: 13%;
-    background-color: salmon;
+    border-style: solid;
+    border-color: paleturquoise;
     font-family: monospace;
     border-radius: 24px;
     height: 39px;
-    border-style: none;
+    background-color: white;
 
 }
 #campoObjetive{
@@ -174,11 +176,13 @@ a {
     margin-bottom: 16px;
     position: absolute;
     margin-top: 24%;
-    background-color: salmon;
+    border-style: solid;
+    border-color: paleturquoise;
     font-family: monospace;
     border-radius: 24px;
+    background-color: white;
     height: 50px;
-    border-style: none;
+
 }
 #boton2{
 	margin-left: 43%;
@@ -187,11 +191,12 @@ a {
     margin-bottom: 16px;
     position: absolute;
     margin-top: 24%;
-    background-color: salmon;
+    border-style: solid;
+    border-color: paleturquoise;
     font-family: monospace;
+    background-color: white;
     border-radius: 24px;
     height: 50px;
-    border-style: none;
 }
 
 #boton3{
@@ -201,11 +206,12 @@ a {
     margin-bottom: 16px;
     position: absolute;
     margin-top: 24%;
-    background-color: salmon;
     font-family: monospace;
     border-radius: 24px;
     height: 50px;
-    border-style: none;
+    border-style: solid;
+    background-color: white;
+    border-color: paleturquoise;
 }
 #foto1{
     width: 25%;
@@ -251,7 +257,16 @@ a {
 }
 
 #home-page{
-	background-color: papayawhip;
+	background-color: powderblue;
+}
+#template-page-3{
+    background-color: powderblue;
+}
+#template-page-2{
+    background-color: powderblue;
+}
+#template-page-4{
+    background-color: powderblue;
 }
 #palabra{
 	padding-top: 52px;
@@ -276,13 +291,13 @@ a {
 }
 /*Page sample  ------------------------------------------------------------------ */
 .mui-page-header {
-	background-color: salmon;
+	background-color: white;
 	border-bottom: solid 1px #bbb;
 }
 
 #mui-viewport>.mui-page>.mui-page-header {
 	height: 60px;
-	background-color: salmon;
+	background-color: white;
 
 }
 .mui-page-logo {
@@ -291,7 +306,7 @@ a {
     padding-top: 8px;
 	margin: auto;
 	background-position: center;
-	content: url(images/donación-de-organos.jpg);
+	content: url(images/logo5.PNG);
 	background-repeat: no-repeat;
     margin-left: 49%;
 	position: absolute;
